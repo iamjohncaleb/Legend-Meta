@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow&color=yellow)
 
-# Legend Meta Crypto Wallet Platform
+# Legend Meta Crypto Wallet Platform Landing Page
 
 ## Table of Contents
 - [Introduction](#introduction)
