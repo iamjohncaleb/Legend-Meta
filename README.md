@@ -1,4 +1,4 @@
-# Legend Meta Crypto Wallet Platform
+# Legend Meta Crypto Wallet Platform Lnding Page
 
 ## Table of Contents
 - [Introduction](#introduction)
